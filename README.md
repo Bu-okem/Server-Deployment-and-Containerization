@@ -86,3 +86,5 @@ Completing the project involves several steps:
 6. Create a CodeBuild stage which will build, test, and deploy your code
 
 For more detail about each of these steps, see the project lesson.
+
+JWT_SECRET: "AQICAHi75tgn7d39xMafZbO2aFDCc8cIyqgbTjqSTTdwX/LlnQH0u3r1iFldUVU2hwf4PHKuAAAAaTBnBgkqhkiG9w0BBwagWjBYAgEAMFMGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM2uifq+/0s5uY3havAgEQgCYY6pHSEUMTzWbA2ZSC7SOpz4EmbmCJLZ4+eInLgAfiYSga290LWA=="
